@@ -1,6 +1,7 @@
 # Robot Kinematics MATLAB Code
 
-This repository contains MATLAB code to perform both Direct Kinematics (DKM) and Inverse Kinematics (IKM) calculations for a 6-DOF robotic manipulator modeled after the Niryo robot arm, using Denavit-Hartenberg parameters and symbolic computation.
+This repository contains MATLAB implementations of **Forward and Inverse Kinematics** for a **6-DOF Nairyo robotic arm** using the Denavit-Hartenberg convention and Euler angles.
+The code has been **developed, implemented, and tested on the physical Nairyo robotic arm** in the university laboratory, allowing practical verification of kinematic models and real-time joint angle computations.
 
 ---
 
