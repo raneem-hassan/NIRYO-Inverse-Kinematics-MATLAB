@@ -53,7 +53,8 @@ The code consists of:
 <p align="center">
   <img src="niryo_arm.jpg" alt="NIRYo Robotic Arm – Robotics and Control Lab, Manara University" width="400">
   <br>
-  <em>NIRYO Robotic Arm – Robotics and Control Lab, Manara University.</em>
+  <em>NIRYO Robotic Arm – Robotics and Control Lab, Manara University.<br>
+  Configured for the Robotics course and research applications in Robotic Control.</em>
 </p>
 
 
