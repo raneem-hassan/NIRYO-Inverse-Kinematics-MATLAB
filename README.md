@@ -50,4 +50,11 @@ The code consists of:
 - `simplifyMatrix.m`:  
   Simplifies symbolic matrices by substituting trigonometric expressions with shorter symbolic notations.
 
+<p align="center">
+  <img src="niryo_arm.jpg" alt="NIRYo Robotic Arm – Robotics and Control Lab, Manara University" width="400">
+  <br>
+  <em>NIRYO Robotic Arm – Robotics and Control Lab, Manara University.</em>
+</p>
+
+
 
